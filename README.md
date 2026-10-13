@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vivek-vishwakarma9&label=PROFILE+VIEWS&color=0078d4&style=for-the-badge" alt="profile views" />
-  <a href="https://linkedin.com/in/vivekvishwakarma"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/vivek-vishwakarma2000/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:vvekvishwaakrma@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -102,45 +102,21 @@ Enterprise-focused **DevOps & DevSecOps Cloud Engineer** with extensive experien
   <img src="https://img.shields.io/badge/Azure_Firewall_%26_P2S_VPN-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </p>
 
-### 💻 Automation Scripting & Operating Systems
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash_Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux_(Ubuntu_%2F_RHEL)-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
 ---
 
-## 🏆 Featured Architectures & Repositories
+## 💻 Most Used Languages & Automation Scripting
 
-### 🚀 [Microservice-landingzone](https://github.com/vivek-vishwakarma9/Microservice-landingzone)
-> **Enterprise Azure Microservices Landing Zone & IaC Platform**  
-> Complete modular Terraform infrastructure hosting a 2-node **AKS** cluster, **PostgreSQL Flexible Server**, **Cosmos DB**, and **Azure Key Vault**. Enforces a **Zero-Trust Network Perimeter** (all PaaS public access disabled via Private Endpoints). Fully automated 4-stage **Azure DevOps pipeline** incorporating **Checkov SAST (Policy-as-Code)**, **TFSec**, **Infracost**, and an **Automated Daily Midnight Drift Detection** engine.
-
----
-
-## 📈 GitHub Analytics & Productivity Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivek-vishwakarma9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4&icon_color=0078D4&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-vishwakarma9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4" alt="Top Languages" width="48%" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-vishwakarma9&theme=tokyonight&hide_border=true&background=0D1117&ring=0078D4&fire=0078D4&currStreakLabel=0078D4" alt="Streak Stats" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Shell_%2F_Bash-40%25-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-25%25-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/YAML_(CI%2FCD_%26_K8s)-20%25-CB171E?style=for-the-badge&logo=yaml&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-10%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HCL_(Terraform)-5%25-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
 </p>
 
----
-
-## 🤝 Let's Connect & Collaborate!
-
-<p align="center">
-  <a href="https://linkedin.com/in/vivekvishwakarma"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:vvekvishwaakrma@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/vivek-vishwakarma9"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <i>⚡ "Automate the build, enforce security at commit, and architect for planetary scale."</i>
-</p>
+```text
+Shell / Bash        ████████████████████░░░░░░░░░░   40.0%  (Platform Automation & Linux Ops)
+PowerShell          █████████████░░░░░░░░░░░░░░░░░   25.0%  (Azure Administration & Scripting)
+YAML                ██████████░░░░░░░░░░░░░░░░░░░░   20.0%  (Azure DevOps, K8s Manifests, Actions)
+Python              █████░░░░░░░░░░░░░░░░░░░░░░░░░   10.0%  (API Automation, Tooling & Scripts)
+HCL (Terraform)     ███░░░░░░░░░░░░░░░░░░░░░░░░░░░    5.0%  (Modular Infrastructure as Code)
