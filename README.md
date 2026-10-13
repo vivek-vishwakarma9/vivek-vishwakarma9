@@ -92,31 +92,49 @@ Enterprise-focused **DevOps & DevSecOps Cloud Engineer** with extensive experien
   <img src="https://img.shields.io/badge/AWS_CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white" />
 </p>
 
-### 🗄️ Databases, Networking & Zero-Trust PaaS
+---
+
+## 💻 Language Proficiency & Automation Skills
+
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL_Flexible-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_Cosmos_DB-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis_Cache-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_PrivateLink_(Zero--Trust)-009688?style=for-the-badge&logo=azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_Firewall_%26_P2S_VPN-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://progress-bar.dev/90/?scale=100&title=HCL%20%2F%20Terraform&width=550&color=623CE4&suffix=%25" alt="HCL / Terraform 90%" /><br>
+  <img src="https://progress-bar.dev/90/?scale=100&title=YAML%20(CI%2FCD%20%26%20K8s)&width=550&color=CB171E&suffix=%25" alt="YAML 90%" /><br>
+  <img src="https://progress-bar.dev/70/?scale=100&title=Shell%20%2F%20Bash&width=550&color=4EAA25&suffix=%25" alt="Shell / Bash 70%" /><br>
+  <img src="https://progress-bar.dev/65/?scale=100&title=PowerShell&width=550&color=5391FE&suffix=%25" alt="PowerShell 65%" /><br>
+  <img src="https://progress-bar.dev/60/?scale=100&title=Python&width=550&color=3776AB&suffix=%25" alt="Python 60%" />
 </p>
 
 ---
 
-## 💻 Most Used Languages & Automation Scripting
+## 🏆 Featured Architectures & Repositories
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Shell_%2F_Bash-40%25-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-25%25-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/YAML_(CI%2FCD_%26_K8s)-20%25-CB171E?style=for-the-badge&logo=yaml&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-10%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HCL_(Terraform)-5%25-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
+### 🚀 [Microservice-landingzone](https://github.com/vivek-vishwakarma9/Microservice-landingzone)
+> **Enterprise Azure Microservices Landing Zone & IaC Platform**  
+> Complete modular Terraform infrastructure hosting a 2-node **AKS** cluster, **PostgreSQL Flexible Server**, **Cosmos DB**, and **Azure Key Vault**. Enforces a **Zero-Trust Network Perimeter** (all PaaS public access disabled via Private Endpoints). Fully automated 4-stage **Azure DevOps pipeline** incorporating **Checkov SAST (Policy-as-Code)**, **TFSec**, **Infracost**, and an **Automated Daily Midnight Drift Detection** engine.
+
+---
+
+## 📈 GitHub Analytics & Productivity Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vivek-vishwakarma9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4&icon_color=0078D4&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-vishwakarma9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4&langs_count=6" alt="Top Languages" width="48%" />
+</div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-vishwakarma9&theme=tokyonight&hide_border=true&background=0D1117&ring=0078D4&fire=0078D4&currStreakLabel=0078D4" alt="Streak Stats" />
 </p>
 
-```text
-Shell / Bash        ████████████████████░░░░░░░░░░   40.0%  (Platform Automation & Linux Ops)
-PowerShell          █████████████░░░░░░░░░░░░░░░░░   25.0%  (Azure Administration & Scripting)
-YAML                ██████████░░░░░░░░░░░░░░░░░░░░   20.0%  (Azure DevOps, K8s Manifests, Actions)
-Python              █████░░░░░░░░░░░░░░░░░░░░░░░░░   10.0%  (API Automation, Tooling & Scripts)
-HCL (Terraform)     ███░░░░░░░░░░░░░░░░░░░░░░░░░░░    5.0%  (Modular Infrastructure as Code)
+---
+
+## 🤝 Let's Connect & Collaborate!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vivek-vishwakarma2000/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:vvekvishwaakrma@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/vivek-vishwakarma9"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <i>⚡ "Automate the build, enforce security at commit, and architect for planetary scale."</i>
+</p>
